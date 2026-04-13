@@ -1,3 +1,5 @@
+
+
 # Project 02: Giving the AI a Personality (System Prompts)
 
 ### The Concept:
@@ -18,4 +20,4 @@ It's like an **Acting Class**. The `system` message is the "Script" I give the a
 1. Make sure you have Node.js installed.
 2. Install the AI tool: `npm i openai`
 3. Add your `GROQ_API_KEY` to a `.env` file in the main folder.
-4. Run the code: `node --env-file=.env app.js`
+4. Run the code: `node --env-file=.env 02-System-Prompt/app.js`

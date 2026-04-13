@@ -19,4 +19,4 @@ Think of the API as a **Waiter**. I give an order (Prompt), the waiter takes it 
 1. Make sure you have Node.js installed.
 2. Install the AI tool: `npm i openai`
 3. Add your `GROQ_API_KEY` to a `.env` file in the main folder.
-4. Run the code: `node --env-file=.env app.js`
+4. Run the code: `node --env-file=.env 01-Basic-API-Call/app.js`
