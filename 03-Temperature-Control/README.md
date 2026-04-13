@@ -19,4 +19,4 @@ It's like **Ordering Coffee**.
 1. Make sure you have Node.js installed.
 2. Install the AI tool: `npm i openai`
 3. Add your `GROQ_API_KEY` to a `.env` file in the main folder.
-4. Run the code: `node --env-file=.env app.js`
+4. Run the code: `node --env-file=.env 03-Temperature-Control/app.js`
