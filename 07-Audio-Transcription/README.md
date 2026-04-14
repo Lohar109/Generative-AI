@@ -14,6 +14,7 @@ This project demonstrates Multimodal AI capabilities by processing audio data. I
 Unlike text-based LLMs, Whisper is specifically trained to recognize speech patterns and convert them into text, handling different accents and background noise effectively.
 
 ---
+###  How to run:
 1. Make sure you have Node.js installed.
 2. Install the AI tool: `npm i openai`
 3. Add your `GROQ_API_KEY` to a `.env` file in the main folder.
