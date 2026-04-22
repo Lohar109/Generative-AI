@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Lohar109/Generative-AI#readme",
   "dependencies": {
-    "openai": "^6.34.0"
+    "openai": "^6.34.0",
+    "pdf-extraction": "^1.0.2"
   }
 }
