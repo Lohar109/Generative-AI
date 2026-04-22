@@ -17,7 +17,7 @@ It's like having a **Manager and a Specialist**.
 * The Specialist does the work, gives it back to the Manager, and the Manager explains it to the client.
 
 ---
-### 🛠️ How to run:
+### How to run:
 1. Make sure you have Node.js installed.
 2. Install the AI tool: `npm i openai`
 3. Add your `GROQ_API_KEY` to a `.env` file in the main folder.
